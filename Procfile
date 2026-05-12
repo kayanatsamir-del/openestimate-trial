@@ -1,1 +1,1 @@
-web: openestimate --host 0.0.0.0 --port $PORT
+web: openestimate serve --host 0.0.0.0 --port $PORT
